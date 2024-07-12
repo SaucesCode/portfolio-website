@@ -587,6 +587,7 @@ footer .top-icon a i {
   .home-img img {
     width: 60vw;
     margin-top: 10rem;
+    margin: 0 auto;
   }
 
   .about {
@@ -595,6 +596,8 @@ footer .top-icon a i {
 
   .about-img img {
     margin-bottom: 2rem;
+    width: 50vh;
+    margin: 0 auto;
   }
 
   .about-info a button {
@@ -630,7 +633,8 @@ footer .top-icon a i {
   }
 
   .about-img img {
-    width: 60vw;
+    width: 50vw;
+    height: 30vh;
     margin: 0 auto;
   }
 
