@@ -23,7 +23,7 @@ ScrollReveal().reveal(".home-contentt p, .about-content", { origin: "right" });
 
 // TYPING TEXT
 const typed = new Typed(".type-text", {
-  strings: ["BSIT Student", "Web Developer", "Lover Boy"],
+  strings: ["BSIT Student", "Web Developer"],
   typeSpeed: 70,
   backSpeed: 70,
   backDelay: 1000,
